@@ -1,0 +1,28 @@
+{
+  "1793798226990": {
+    "originalName": "Logo_ULL.png",
+    "fileName": "1793798226990.png",
+    "size": 39537,
+    "url": "${appResourceUrl}/images/widget_3/1793798226990.png",
+    "created": 1793798226990,
+    "resourcesPrefix": "images/widget_3",
+    "referredIds": [],
+    "originId": "1793798226990",
+    "fileFormat": "image/png",
+    "originalWidth": 2250,
+    "originalHeight": 542
+  },
+  "1793798315098": {
+    "originalName": "Logo_GobCan_claim_blanco_mod1.png",
+    "fileName": "1793798315098.png",
+    "size": 11506,
+    "url": "${appResourceUrl}/images/widget_32/1793798315098.png",
+    "created": 1793798315098,
+    "resourcesPrefix": "images/widget_32",
+    "referredIds": [],
+    "originId": "1793798315098",
+    "fileFormat": "image/png",
+    "originalWidth": 534,
+    "originalHeight": 310
+  }
+}

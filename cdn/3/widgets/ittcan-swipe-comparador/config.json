@@ -1,0 +1,10 @@
+{
+  "title":"Comparar amenazas",
+  "initialDirection":"horizontal",
+  "initialPosition":50,
+  "dividerColor":"#0079c1",
+  "dividerWidth":4,
+  "handleSize":52,
+  "showHandleLabel":true,
+  "handleLabel":"DESLIZA"
+}
