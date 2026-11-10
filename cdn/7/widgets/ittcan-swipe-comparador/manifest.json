@@ -1,0 +1,22 @@
+{
+  "name": "ittcan-swipe-comparador",
+  "label": "ITTCAN · Comparador de amenazas",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.21.0",
+  "author": "ITTCAN",
+  "description": "Comparador Swipe con barra arrastrable visible y panel de Contenido personalizable; fichas de procedencia y autoría por capa",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "settingDependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {
+    "hasSettingPage": true
+  },
+  "defaultSize": {
+    "width": 720,
+    "height": 110
+  }
+}

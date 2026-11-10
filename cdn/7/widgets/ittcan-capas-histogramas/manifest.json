@@ -1,0 +1,28 @@
+{
+  "name": "ittcan-capas-histogramas",
+  "label": "ITTCAN · Capas e histogramas",
+  "type": "widget",
+  "version": "1.4.0",
+  "exbVersion": "1.21.0",
+  "author": "ITTCAN",
+  "description": "Selector territorial, filtro por amenaza, leyenda dinámica, zoom, subgrupos, opacidad y histogramas; fichas de procedencia y autoría por capa",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "settingDependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en",
+    "es"
+  ],
+  "properties": {
+    "hasSettingPage": true
+  },
+  "defaultSize": {
+    "width": 440,
+    "height": 720
+  }
+}
